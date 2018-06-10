@@ -1,5 +1,7 @@
 
-### Metar.sh - a simple cli tool to get your weather report. Hassle free from the crutches of js and modern Web-dev.
+### Metar.sh 
+
+A simple cli tool to get your weather report. Hassle free from the crutches of js and modern Web-dev.
 
 Basic sytax :
 
